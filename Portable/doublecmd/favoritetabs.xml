@@ -166,7 +166,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\</Path>
+                  <Path>C:\Air\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -175,8 +175,8 @@
             </ColumnsView>
           </FileView>
           <Options>3</Options>
-          <LockPath>C:\ube\ToolBox\</LockPath>
-          <Title>ToolBox</Title>
+          <LockPath>C:\Air\</LockPath>
+          <Title>Air</Title>
         </Tab>
         <Tab>
           <FileView Type="columns">
@@ -184,7 +184,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\</Path>
+                  <Path>C:\Air\ToolBox\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -193,8 +193,8 @@
             </ColumnsView>
           </FileView>
           <Options>3</Options>
-          <LockPath>C:\ube\PortablePrograms\</LockPath>
-          <Title>PortablePrograms</Title>
+          <LockPath>C:\Air\ToolBox\</LockPath>
+          <Title>ToolBox</Title>
         </Tab>
       </Left>
       <Right>
@@ -205,7 +205,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\</Path>
+                  <Path>C:\Air\Screenshots\Unsorted\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -214,7 +214,7 @@
             </ColumnsView>
           </FileView>
           <Options>3</Options>
-          <LockPath>C:\ube\Screenshots\Unsorted\</LockPath>
+          <LockPath>C:\Air\Screenshots\Unsorted\</LockPath>
           <Title>Screenshots</Title>
         </Tab>
       </Right>

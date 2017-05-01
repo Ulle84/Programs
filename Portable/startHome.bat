@@ -7,5 +7,5 @@ start .\Greenshot\Greenshot.exe
 start .\Notepad++\Notepad++.exe
 start .\PStart\PStart.exe
 start .\Sizer\sizer.exe
-start .\ToDoList\ToDoList.exe C:\ube\ToolBox\ToolBox.tdl
+start .\ToDoList\ToDoList.exe C:\Air\ToolBox\ToolBox.tdl
 start .\doublecmd\doublecmd.exe

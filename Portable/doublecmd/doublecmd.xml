@@ -170,7 +170,7 @@
   <Tabs>
     <OpenedTabs>
       <Left>
-        <ActiveTab>0</ActiveTab>
+        <ActiveTab>1</ActiveTab>
         <Tab>
           <FileView Type="columns">
             <History>
@@ -185,7 +185,7 @@
                   <Path Filename="..">C:\Air\ToolBox\</Path>
                   <Path Filename="ToolBox">C:\Air\</Path>
                   <Path Filename="..">C:\Air\ToolBox\</Path>
-                  <Path Filename="ToolBox">C:\Air\</Path>
+                  <Path Filename="Programs">C:\Air\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -212,7 +212,7 @@
                   <Path Filename="ToolBox">C:\Air\</Path>
                   <Path Filename="..">C:\Air\ToolBox\</Path>
                   <Path Filename="ToolBox">C:\Air\</Path>
-                  <Path Filename="..">C:\Air\ToolBox\</Path>
+                  <Path Filename="plugins">C:\Air\ToolBox\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -223,33 +223,6 @@
           <Options>3</Options>
           <LockPath>C:\Air\ToolBox\</LockPath>
           <Title>ToolBox</Title>
-        </Tab>
-        <Tab>
-          <FileView Type="columns">
-            <History>
-              <Entry Active="True">
-                <FileSource Type="FileSystem"/>
-                <Paths>
-                  <Path Filename="">C:\ube\PortablePrograms\</Path>
-                  <Path Filename="">C:\</Path>
-                  <Path Filename="">C:\ube\PortablePrograms\</Path>
-                  <Path Filename="Air">C:\</Path>
-                  <Path Filename="ToolBox">C:\Air\</Path>
-                  <Path Filename="..">C:\Air\ToolBox\</Path>
-                  <Path Filename="ToolBox">C:\Air\</Path>
-                  <Path Filename="..">C:\Air\ToolBox\</Path>
-                  <Path Filename="PortablePrograms">C:\Air\</Path>
-                  <Path Filename="WinDirStatPortable">C:\Air\PortablePrograms\</Path>
-                </Paths>
-              </Entry>
-            </History>
-            <ColumnsView>
-              <ColumnsSet>Default</ColumnsSet>
-            </ColumnsView>
-          </FileView>
-          <Options>3</Options>
-          <LockPath>C:\Air\PortablePrograms\</LockPath>
-          <Title>PortablePrograms</Title>
         </Tab>
       </Left>
       <Right>
