@@ -58,8 +58,8 @@
         <GUIConfig name="globalOverride" fg="no" bg="no" font="no" fontSize="no" bold="no" italic="no" underline="no" />
         <GUIConfig name="auto-completion" autoCAction="0" triggerFromNbChar="1" autoCIgnoreNumbers="yes" funcParams="no" />
         <GUIConfig name="auto-insert" parentheses="yes" brackets="yes" curlyBrackets="yes" quotes="yes" doubleQuotes="yes" htmlXmlTag="yes" />
-        <GUIConfig name="sessionExt">xml</GUIConfig>
-        <GUIConfig name="workspaceExt">xml</GUIConfig>
+        <GUIConfig name="sessionExt">session</GUIConfig>
+        <GUIConfig name="workspaceExt">workspace</GUIConfig>
         <GUIConfig name="MenuBar">show</GUIConfig>
         <GUIConfig name="Caret" width="1" blinkRate="250" />
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
