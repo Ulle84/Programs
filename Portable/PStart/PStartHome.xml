@@ -1,62 +1,54 @@
 <start>
 	<files>
-		<file name="CMakeGui - ToolBox">
-			<path>..\..\ToolBox\CMakeGui.bat</path>
+		<file name="Chuck">
+			<path>..\..\..\ToolBox\bin\Chuck.exe</path>
+			<runcount>2</runcount>
+			<rundate>2017/05/05 21:09:00</rundate>
+		</file>
+		<file name="CMakeGui">
+			<path>..\..\..\ToolBox\CMakeGui.bat</path>
 			<runcount>7</runcount>
-			<rundate>2017/04/28 20:42:02</rundate>
+			<rundate>2017/05/10 21:14:27</rundate>
 		</file>
 		<file name="CodeCreator">
-			<path>..\..\ToolBox\bin\CodeCreator.exe</path>
+			<path>..\..\..\ToolBox\bin\CodeCreator.exe</path>
 			<runcount>6</runcount>
-			<rundate>2017/04/29 14:16:04</rundate>
+			<rundate>2017/05/09 05:24:11</rundate>
 		</file>
 		<file name="CodeDuplicator">
-			<path>..\..\ToolBox\bin\CodeDuplicator.exe</path>
+			<path>..\..\..\ToolBox\bin\CodeDuplicator.exe</path>
+			<runcount>4</runcount>
+			<rundate>2017/05/10 19:43:52</rundate>
+		</file>
+		<file name="DailyNotes">
+			<path>..\..\..\ToolBox\bin\DailyNotes.exe</path>
+			<runcount>3</runcount>
+			<rundate>2017/05/07 14:49:14</rundate>
 		</file>
 		<file name="DevelopmentHelper">
-			<path>..\..\ToolBox\bin\DevelopmentHelper.exe</path>
-			<runcount>1</runcount>
-			<rundate>2017/04/21 20:13:08</rundate>
-		</file>
-		<file name="DirectorySwitcher">
-			<path>..\..\ToolBox\bin\DirectorySwitcher.exe</path>
+			<path>..\..\..\ToolBox\bin\DevelopmentHelper.exe</path>
 		</file>
 		<file name="LogViewer">
-			<path>..\..\ToolBox\bin\LogViewer.exe</path>
+			<path>..\..\..\ToolBox\bin\LogViewer.exe</path>
 		</file>
-		<file name="PhoneBook">
-			<path>..\..\ToolBox\bin\PhoneBook.exe</path>
+		<file name="QtConnectionHelper">
+			<path>..\..\..\ToolBox\bin\QtConnectionHelper.exe</path>
 		</file>
-		<file name="PlainClipboard">
-			<path>..\..\ToolBox\bin\PlainClipboard.exe</path>
+		<file name="QtConnectionHelper">
+			<path>..\..\..\ToolBox\bin\QtConnectionHelper.exe</path>
+			<runcount>4</runcount>
+			<rundate>2017/05/06 06:23:57</rundate>
 		</file>
-		<file name="SimpleHtmlEditor">
-			<path>..\..\ToolBox\bin\SimpleHtmlEditor.exe</path>
-			<runcount>1</runcount>
-			<rundate>2017/04/18 11:14:12</rundate>
+		<file name="QtHelper">
+			<path>..\..\..\ToolBox\bin\QtHelper.exe</path>
 		</file>
-		<file name="SitAndStandTimer">
-			<path>..\..\ToolBox\bin\SitAndStandTimer.exe</path>
-			<runcount>2</runcount>
-			<rundate>2017/04/18 11:14:07</rundate>
-		</file>
-		<file name="SvnUpdateFilter">
-			<path>..\..\ToolBox\bin\SvnUpdateFilter.exe</path>
-		</file>
-		<file name="TextConverter">
-			<path>..\..\ToolBox\bin\TextConverter.exe</path>
-		</file>
-		<file name="Timer">
-			<path>..\..\ToolBox\bin\Timer.exe</path>
+		<file name="SmlEditor">
+			<path>..\..\..\ToolBox\bin\SmlEditor.exe</path>
 		</file>
 		<file name="ToolBox">
-			<path>..\..\ToolBox\build\ToolBox.sln</path>
-		</file>
-		<file name="VisualStudioOutputSorter">
-			<path>..\..\ToolBox\bin\VisualStudioOutputSorter.exe</path>
-		</file>
-		<file name="VisualStudioSearchResultFilter">
-			<path>..\..\ToolBox\bin\VisualStudioSearchResultFilter.exe</path>
+			<path>..\..\..\ToolBox\build\ToolBox.sln</path>
+			<runcount>4</runcount>
+			<rundate>2017/05/05 20:50:26</rundate>
 		</file>
 	</files>
 	<notes>
@@ -82,8 +74,8 @@
 		<backupmode>pbmTemporary</backupmode>
 	</configurationfile>
 	<execution>
-		<count>12</count>
-		<overalltime>73:33:01.441</overalltime>
+		<count>16</count>
+		<overalltime>292:08:44.005</overalltime>
 	</execution>
 	<general>
 		<executionaction>0</executionaction>
@@ -201,7 +193,7 @@
 				<y>0</y>
 			</position>
 			<size>
-				<x>370</x>
+				<x>974</x>
 				<y>1047</y>
 			</size>
 		</main>
