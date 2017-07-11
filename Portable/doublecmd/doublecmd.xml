@@ -309,7 +309,7 @@
       <KeepTerminalOpen>False</KeepTerminalOpen>
     </Viewer>
     <Editor Enabled="True">
-      <Path>%COMMANDER_PATH%\..\..\ToolBox\bin\ProcessStarter.exe</Path>
+      <Path>%COMMANDER_PATH%\..\..\..\ToolBox\bin\ProcessStarter.exe</Path>
       <Parameters/>
       <RunInTerminal>False</RunInTerminal>
       <KeepTerminalOpen>False</KeepTerminalOpen>
